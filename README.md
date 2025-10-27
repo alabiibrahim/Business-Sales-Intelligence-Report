@@ -119,43 +119,70 @@ The goal is to clean the dataset to ensure data integrity, accuracies and standa
 
 ## Processing 
 
+
+Monthly analysis
 ![Processing](All%20folders/images/-1.png)
 
 
+
+Yearly analysis
 ![Processing](All%20folders/images/-2.png)
 
 
+
+Weekly analysis
 ![Processing](All%20folders/images/-3.png)
 
 
+
+Yearly Quarter analysis
 ![Processing](All%20folders/images/-4.png)
 
 
+
+Weektype analysis
 ![Processing](All%20folders/images/-5.png)
 
 
+
+Gender analysis
 ![Processing](All%20folders/images/-6.png)
 
 
+
+Regional analysis
 ![Processing](All%20folders/images/-7.png)
 
 
+
+Top performing product
 ![Processing](All%20folders/images/-8.png)
 
 
+
+Underperforming product
 ![Processing](All%20folders/images/-9.png)
 
 
+
+Age group analysis
 ![Processing](All%20folders/images/-10.png)
 
 
+
+KPIs metric
 ![Processing](All%20folders/images/-11.png)
 
 
+
+Product category analysis
 ![Processing](All%20folders/images/-12.png)
 
 
+
+Top customers analysis
 ![Processing](All%20folders/images/-13.png)
+
 
 
 ## Insights
