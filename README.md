@@ -89,9 +89,9 @@ Here is a list of appropriate chart visuals used in answering key questions.
 -  Line chart
 -  Filter panel
 
-![Dasboard design](All%20folders/images/02.png)
+![Dasboard design](All%20folders/images/01.png)
 
-![Dasboard design](images/02.png)
+![Dasboard design](All%20folders/images/02.png)
 
 
 # Development
@@ -119,44 +119,43 @@ The goal is to clean the dataset to ensure data integrity, accuracies and standa
 
 ## Processing 
 
-![Processing](images/-1.png)
+![Processing](All%20folders/images/-1.png)
 
 
-![Processing](images/-2.PNG)
+![Processing](All%20folders/images/-2.png)
 
 
-![Processing](images/-3.PNG)
+![Processing](All%20folders/images/-3.png)
 
 
-![Processing](images/-4.PNG)
+![Processing](All%20folders/images/-4.png)
 
 
-![Processing](images/-5.PNG)
+![Processing](All%20folders/images/-5.png)
 
 
-![Processing](images/-6.PNG)
+![Processing](All%20folders/images/-6.png)
 
 
-![Processing](images/-7.PNG)
+![Processing](All%20folders/images/-7.png)
 
 
-![Processing](images/-8.PNG)
+![Processing](All%20folders/images/-8.png)
 
 
-![Processing](images/-9.PNG)
+![Processing](All%20folders/images/-9.png)
 
 
-![Processing](images/-10.PNG)
+![Processing](All%20folders/images/-10.png)
 
 
-![Processing](images/-11.PNG)
+![Processing](All%20folders/images/-11.png)
 
 
-![Processing](images/-12.PNG)
+![Processing](All%20folders/images/-12.png)
 
 
-![Processing](images/-13.PNG)
-
+![Processing](All%20folders/images/-13.png)
 
 
 ## Insights
