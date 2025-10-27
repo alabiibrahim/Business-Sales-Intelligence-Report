@@ -89,7 +89,7 @@ Here is a list of appropriate chart visuals used in answering key questions.
 -  Line chart
 -  Filter panel
 
-![Dasboard design](images/01.png)
+![Dasboard design](images/-10.png)
 
 ![Dasboard design](images/02.png)
 
