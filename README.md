@@ -1,4 +1,4 @@
-# Business-Sales-Intelligence-Report
+# Business Intelligence Report
 
 
 ![Dashboard Mockup](All%20folders/images/Business%20IntelligenceGIF.gif)
