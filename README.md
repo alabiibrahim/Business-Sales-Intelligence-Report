@@ -2,7 +2,7 @@
 The goal is to have a clean, interactive, and visually appealing dashboard that provide actionable insights at a glance.
 
 
-![Dasboard Mockup](images/DashboardGIF.gif)
+![Dasboard Mockup](/All%20folders/images/Business%20IntelligenceGIF.gif)
 
 
 # Table of Contents
