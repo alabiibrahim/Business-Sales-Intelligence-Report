@@ -1,7 +1,7 @@
 # Business-Sales-Intelligence-Report
 
 
-![Dasboard Mockup](All%20folders/images/Business%20IntelligenceGIF.gif)
+![Dashboard Mockup](All%20folders/images/Business%20IntelligenceGIF.gif)
 
 
 # Table of Contents
@@ -18,6 +18,7 @@
 - [Data processing](#Analysis)
 - [Insights](#Insights)
 - [Recommendations](#Recommendations)
+- [Action Plan](#ActionPlan)
 
 
 ## Project brief
@@ -59,18 +60,18 @@ Home Appliances, Sports) and by region (East, North, South, West).
 
 ## Data
 
-Here are the Data columns used in achieving the project goal
+Here are the metrics used in achieving the project goal
 
 -  KPIs
 -  Product segment
--  Product category
--  Product sub-category
--  Shipping method
+-  Product category / Name
+-  Gender
+-  Age
 -  Region
--  City
--  Delivery duration
--  Monthly
--  Year 
+-  Monthly (Weekly)
+-  Year (Quarterly)
+-  Top / Bottom performing product
+-  Top customers
 
 
 
@@ -79,12 +80,10 @@ Here are the Data columns used in achieving the project goal
 
 Here is a list of appropriate chart visuals used in answering key questions.
 -  Score cards
--  Column chart
 -  Donut chart
--  Area chart
--  Progress Bar chart
+-  Progress Bar / Column chart
 -  Rating chart
--  Column chart
+-  Lollipop chart
 -  Line chart
 -  Filter panel
 
