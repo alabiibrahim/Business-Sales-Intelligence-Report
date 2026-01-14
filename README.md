@@ -22,7 +22,9 @@
 
 
 ## Project brief
-The goal is to have a clean, interactive, and visually appealing dashboard that provides actionable insights at a glance.
+
+I built this interactive dashboard to pinpoint revenue drivers across 300 customers and 50 product lines. Featuring granular weekly distribution and quarterly YoY comparisons, it provides the executive clarity needed to scale the £48.5k average revenue per customer through data-backed inventory and marketing shifts.
+
 
 
 ## Objectives / Questions to answer
