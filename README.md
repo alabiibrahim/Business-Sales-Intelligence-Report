@@ -28,7 +28,7 @@ I built this interactive dashboard to pinpoint revenue drivers across 300 custom
 
 ## Objectives / Questions to answer
 
-Client Request: Assistance in Building a Sales Dashboard in Excel. I would like the dashboard to include the following key features: 
+*Client Request: Assistance in Building a Sales Dashboard in Excel. I would like the dashboard to include the following key features:*
 
 
 • KPIs at the top: Total Units Sold, Overall Sales Revenue, Average Revenue per 
@@ -49,14 +49,11 @@ Home Appliances, Sports) and by region (East, North, South, West).
 
 
 
-
-
 ## Tools
 
 | Tools | Purpose | Data |
 | --- | --- | --- |
 | Excel - PowerQuery, DAX | Clean, Analyze & Visualization | ![Data](https://github.com/alabiibrahim/Business-Sales-Intelligence-Report/blob/main/All%20folders/Datasets/Excel%20Dashboard_Dataset.xlsx) |
-
 
 
 Here are the metrics / columns used in achieving the project goal
