@@ -10,15 +10,14 @@
 - [Project brief](#Project-brief)
 - [Objective](#Objective)
 - [Questions to Answer](#Questions-to-Answer)
-- [Data source](#Data)
 - [Tools](#Tools)
-- [Dashboard design charts](#Dashboard-design-charts)
-- [Development](#Developments)
+- [Dashboard design charts](#Dashboard-design)
+- [Development](#Development)
 - [Data Cleaning](#Data-Cleaning)
 - [Data processing](#Analysis)
 - [Insights](#Insights)
 - [Recommendations](#Recommendations)
-- [Action Plan](#ActionPlan)
+- [Action Plan](#Action-Plan)
 
 
 ## Project brief
@@ -56,11 +55,11 @@ Home Appliances, Sports) and by region (East, North, South, West).
 
 | Tools | Purpose | Data |
 | --- | --- | --- |
-| Excel  |  Cleaning /Processing, DAX /Power Query, Visualization | ![Data](https://github.com/alabiibrahim/Business-Sales-Intelligence-Report/blob/main/All%20folders/Datasets/Excel%20Dashboard_Dataset.xlsx) |
+| Excel - PowerQuery, DAX | Clean, Analyze & Visualization | ![Data](https://github.com/alabiibrahim/Business-Sales-Intelligence-Report/blob/main/All%20folders/Datasets/Excel%20Dashboard_Dataset.xlsx) |
 
 
 
-Here are the metrics used in achieving the project goal
+Here are the metrics / columns used in achieving the project goal
 
 -  KPIs
 -  Product segment
@@ -72,7 +71,6 @@ Here are the metrics used in achieving the project goal
 -  Year (Quarterly)
 -  Top / Bottom performing product
 -  Top customers
-
 
 
 
@@ -115,7 +113,7 @@ The goal is to clean the dataset to ensure data integrity, accuracies and standa
 
 
 
-## Processing 
+## Analysis 
 
 
 Monthly analysis
