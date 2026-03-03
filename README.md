@@ -54,13 +54,11 @@ Home Appliances, Sports) and by region (East, North, South, West).
 
 ## Tools
 
-| Tools | Purpose | 
+| Tools | Purpose | Data |
 | --- | --- | 
-| Excel  |  Cleaning /Processing, DAX /Power Query, Visualization |
+| Excel  |  Cleaning /Processing, DAX /Power Query, Visualization | ![Data]() |
 
 
-
-## Data
 
 Here are the metrics used in achieving the project goal
 
@@ -110,11 +108,10 @@ Here’s a step by step guide on how the data was approached
 
 The goal is to clean the dataset to ensure data integrity, accuracies and standardization.
 
-- Only relevant columns is retained.
-- Standardized data types for each column to maintain data accuracy.
+- Only relevant columns was retained.
+- Standardized data types for each column to maintain data accuracy and reduce errors by mismatch formats.
 - I handled 5% null values 'Age' column by using median imputation.
-- Power Query and DAX used in cleaning & analysis process.
-- Utilized Power Pivot and DAX to create complex measures, keeping the workbook lightweight even with large datasets.
+- Power Query and DAX used to clean, analyze and create complex measures.
 
 
 
@@ -201,21 +198,29 @@ Top customers analysis
 
 ## Insights
 
+**Profitability*
+
 -  Revenue generared in total is £14.54m.  28.7k in quantity sold. 
 
 -  300 customers and available product of 50. The average cost per customers and product is 48.5k & 290.7k.
 
 -  Total revenue for 2023 is £6.77m and 2024 is £7.26m, indicating YoY growth of 14.58%. 
 
--  Female customers tend to generate more in revenue than male customers with a huge difference of 64.73%. 
+**Customer Behavior*
+
+-  Female customers tend to generate more in revenue than male customers with a huge difference of 64.73%.
+
+-  Customers above 35 yrs of age purchased more products than customers less than age 35. 
 
 -  Sales are well-balanced across categories, with Sports leading slightly. No single category dominates, suggesting healthy diversification but also opportunity for strategic focus.
 
 -  The West region generated the highest in revenue with £5.23m followed by the East region having made a sum of £4.89m. 
 
+**Regional Risk
+
 -  North region sales record is signifcantly low compared to other regions having the least of 800k. This might be due to its low customers % rate.
 
--  Customers above 35 yrs of age purchased more products than customers less than age 35. 
+
 
 -  Sales sky rocket on workdays (76.1%) more than weekends (28.9%).
 
