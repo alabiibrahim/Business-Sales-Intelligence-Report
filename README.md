@@ -198,33 +198,34 @@ Top customers analysis
 
 ## Insights
 
-**Profitability*
+*Profitability*
 
 -  Revenue generared in total is £14.54m.  28.7k in quantity sold. 
 
 -  300 customers and available product of 50. The average cost per customers and product is 48.5k & 290.7k.
 
--  Total revenue for 2023 is £6.77m and 2024 is £7.26m, indicating YoY growth of 14.58%. 
+-  Total revenue for 2023 is £6.77m and 2024 is £7.26m, indicating YoY growth of 14.58%.
 
-**Customer Behavior*
+-  Top selling products with £1.62m in sales, and bottom selling with £1.22m sales, stating there's little differenece (400k)  between them.
+
+-  Sales are well-balanced across categories, with Sports leading slightly. No single category dominates, suggesting healthy diversification but also opportunity for strategic focus.
+
+
+*Customer Behavior*
 
 -  Female customers tend to generate more in revenue than male customers with a huge difference of 64.73%.
 
 -  Customers above 35 yrs of age purchased more products than customers less than age 35. 
 
--  Sales are well-balanced across categories, with Sports leading slightly. No single category dominates, suggesting healthy diversification but also opportunity for strategic focus.
 
--  The West region generated the highest in revenue with £5.23m followed by the East region having made a sum of £4.89m. 
-
-**Regional Risk
+*Regional Risk*
 
 -  North region sales record is signifcantly low compared to other regions having the least of 800k. This might be due to its low customers % rate.
 
-
-
 -  Sales sky rocket on workdays (76.1%) more than weekends (28.9%).
 
--  Top selling products with £1.62m in sales, and bottom selling with £1.22m sales, stating there's little differenece (400k)  between them. 
+-  The West region generated the highest in revenue with £5.23m followed by the East region having made a sum of £4.89m. 
+
 
 
 
