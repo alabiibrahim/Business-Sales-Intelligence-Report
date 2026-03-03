@@ -100,10 +100,10 @@ Here’s a step by step guide on how the data was approached
 
 -  Get data from source
 -  Load to Excel
--  Clean and transform with Excel
--  Visualizations using Excel customized charts
--  Generate Insights
--  Give recommendations 
+-  Clean and transform data with Excel - Power Query and DAX.
+-  Visualizations using Excel customized charts.
+-  Share Insights.
+-  Give recommendations .
 
 
 ## Data Cleaning
@@ -111,9 +111,10 @@ Here’s a step by step guide on how the data was approached
 The goal is to clean the dataset to ensure data integrity, accuracies and standardization.
 
 - Only relevant columns is retained.
-- All data types are appropriate for the contents of each column.
-- No column contains null values, indicating complete data for all records.
+- Standardized data types for each column to maintain data accuracy.
+- I handled 5% null values 'Age' column by using median imputation.
 - Power Query and DAX used in cleaning & analysis process.
+- Utilized Power Pivot and DAX to create complex measures, keeping the workbook lightweight even with large datasets.
 
 
 
@@ -224,7 +225,7 @@ Top customers analysis
 
 ## Recommendations
 
--  Offer discounts to customers below the age of 35. 
+-  Since customers <35 are under-indexing by 20% in the 'Home Appliances' category, launch a targeted 'First Home' bundle campaign.
 
 -  Use social media and influencer marketing to attract younger customers.
 
