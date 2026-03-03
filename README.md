@@ -55,8 +55,8 @@ Home Appliances, Sports) and by region (East, North, South, West).
 ## Tools
 
 | Tools | Purpose | Data |
-| --- | --- | 
-| Excel  |  Cleaning /Processing, DAX /Power Query, Visualization | ![Data]() |
+| --- | --- | --- |
+| Excel  |  Cleaning /Processing, DAX /Power Query, Visualization | ![Data](https://github.com/alabiibrahim/Business-Sales-Intelligence-Report/blob/main/All%20folders/Datasets/Excel%20Dashboard_Dataset.xlsx) |
 
 
 
