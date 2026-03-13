@@ -1,7 +1,7 @@
 # Business Intelligence Report
 
 
-![Dashboard Mockup](All%20folders/images/Business%20IntelligenceGIF.gif)
+![Dashboard Mockup](images/Business%20IntelligenceGIF.gif)
 
 
 # Table of Contents
