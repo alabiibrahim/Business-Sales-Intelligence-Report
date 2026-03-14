@@ -223,7 +223,6 @@ Top customers analysis
 
 
 
-
 ## Recommendations
 
 -  Since customers <35 are under-indexing by 20% in the 'Home Appliances' category, launch a targeted 'First Home' bundle campaign.
